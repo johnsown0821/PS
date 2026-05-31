@@ -6,6 +6,7 @@ Problem Solving
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/johnsown0821/PS/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnsown0821/PS/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/johnsown0821/PS/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/johnsown0821/PS/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -40,5 +41,10 @@ Problem Solving
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/johnsown0821/PS/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnsown0821/PS/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/johnsown0821/PS/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
